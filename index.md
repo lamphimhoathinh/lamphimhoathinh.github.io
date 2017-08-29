@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Làm Phim Hoạt Hình
 
-You can use the [editor on GitHub](https://github.com/lamphimhoathinh/lamphimhoathinh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bạn có thể tham gia group [Làm Phim Hoạt Hình](https://www.facebook.com/groups/1152783684748696/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Liên kết
 
-### Markdown
+- [Nội quy nhóm](rules.md)
+- [Hỏi - đáp về hệ thống raking](rank.md)
+- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](https://lamphimhoathinh.000webhostapp.com/)
+- [Tình hình hoạt động của group](hoatdonggroup.md)
+- [Danh sách các thành viên hoạt động tích cực](https://docs.google.com/spreadsheets/d/1i_kWfdtHlb814-OtcFsBXxBYrP-5R0ecDl0icyam19s/edit?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Công cụ
 
-```markdown
-Syntax highlighted code block
+Các công cụ hỗ trợ làm phim hoạt hình được đánh giá cao
 
-# Header 1
-## Header 2
-### Header 3
+*** Đang cập nhật ***
 
-- Bulleted
-- List
+## Link hay
 
-1. Numbered
-2. List
+Các link hay giúp ích cho làm phim hoạt hình
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lamphimhoathinh/lamphimhoathinh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*** Đang cập nhật ***
