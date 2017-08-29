@@ -6,7 +6,7 @@ Bạn có thể tham gia group [Làm Phim Hoạt Hình](https://www.facebook.com
 
 - [Nội quy nhóm](rules.md)
 - [Hỏi - đáp về hệ thống raking](rank.md)
-- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](https://lamphimhoathinh.000webhostapp.com/)
+- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](ranking.md)
 - [Tình hình hoạt động của group](hoatdonggroup.md)
 - [Danh sách các thành viên hoạt động tích cực](https://docs.google.com/spreadsheets/d/1i_kWfdtHlb814-OtcFsBXxBYrP-5R0ecDl0icyam19s/edit?usp=sharing)
 
