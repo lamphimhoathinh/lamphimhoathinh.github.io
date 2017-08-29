@@ -1,21 +1,23 @@
-# J2TeaM Community
+# Làm Phim Hoạt Hình
 
-Những điều mà bạn cần biết nếu muốn tham gia [J2TeaM Community](https://www.facebook.com/groups/j2team.community/)
+Bạn có thể tham gia group [Làm Phim Hoạt Hình](https://www.facebook.com/groups/1152783684748696/)
 
 ## Liên kết
 
 - [Nội quy nhóm](rules.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
-- [Các lệnh mà bot hỗ trợ](bot-commands.md)
-- [Nhóm chat trên Slack](https://j2team-community.slack.com/messages)
 - [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
+- [Tình hình hoạt động của group](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
+- [Danh sách các thành viên hoạt động tích cực](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
 
 ## Công cụ
 
-Các công cụ liệt kê dưới đây được đóng góp bởi cộng đồng:
+Các công cụ hỗ trợ làm phim hoạt hình được đánh giá cao
 
-- [Tìm kiếm bài viết siêu tốc](http://www.j2teamdata.tk/) bởi [Long Đỗ](https://www.facebook.com/groups/j2team.community/permalink/418245055174287/)
-- [Index bài viết trong nhóm](http://phimchua.com/fb/) bởi [Vinh Chương](https://www.facebook.com/groups/j2team.community/permalink/420339644964828/)
-- [Index, tìm kiếm bài viết trong nhóm](http://j2team.anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/437008396631286/)
-- [Mã hóa, bảo vệ liên kết](http://anlink.top/) bởi [Nguyen Huu Dat](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)
-- [Mã hóa, bảo vệ liên kết](http://code.junookyo.xyz/j2team-community/) bởi [Juno_okyo](https://junookyo.blogspot.com/?utm_source=github)
+*** Đang cập nhật ***
+
+## Link hay
+
+Các link hay giúp ích cho làm phim hoạt hình
+
+*** Đang cập nhật ***
