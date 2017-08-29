@@ -5,10 +5,10 @@ Bạn có thể tham gia group [Làm Phim Hoạt Hình](https://www.facebook.com
 ## Liên kết
 
 - [Nội quy nhóm](rules.md)
-- [Hệ thống xếp hạng thành viên](rank.md)
-- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
-- [Tình hình hoạt động của group](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
-- [Danh sách các thành viên hoạt động tích cực](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
+- [Hỏi - đáp về hệ thống raking](rank.md)
+- [Tra cứu thứ hạng - Xem bài đang hot trong tuần](https://lamphimhoathinh.000webhostapp.com/)
+- [Tình hình hoạt động của group](hoatdonggroup.md)
+- [Danh sách các thành viên hoạt động tích cực](https://docs.google.com/spreadsheets/d/1i_kWfdtHlb814-OtcFsBXxBYrP-5R0ecDl0icyam19s/edit?usp=sharing)
 
 ## Công cụ
 
